@@ -2,7 +2,7 @@
 This is multi step form made with html css and js
 
 
-#Purpose
+# Purpose
 The  users should be able to:
 
 Complete each step of the sequence
